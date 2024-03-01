@@ -1,0 +1,50 @@
+.foot {
+  background-color: #2a272e;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 50px;
+}
+
+.inerbox {
+  display: flex;
+  flex-direction: column;
+  gap: 130px;
+}
+
+.footB {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.heading {
+  display: flex;
+  flex-direction: row;
+  gap: 59px;
+}
+
+.he {
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+}
+
+.icon {
+  display: flex;
+  flex-direction: row;
+  gap: 6.27px;
+}
+
+.footF {
+  display: flex;
+}
