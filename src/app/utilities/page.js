@@ -162,6 +162,42 @@ const Utility = () => {
                 lenders and borrowers, significantly minimizing paperwork.
               </span>
             </div>
+            <div className={styles.box4}>
+              <Image
+                src="/images/Rectangle.png"
+                width={284}
+                height={212}
+                style={{ margin: "0% 38%" }}
+              />
+              <span className={styles.footH}>
+                Innovating NFTs: Elevating Digital Ownership with Jumbo
+                Blockchain
+              </span>
+              <span className={styles.footC}>
+                {" "}
+                Jumbo Blockchain is revolutionizing the blockchain realm by
+                integrating non-fungible tokens (NFTs) in an unprecedented way:
+                transforming patents into NFTs. This innovative strategy turns
+                intellectual property into tangible, tradable assets on the
+                blockchain, allowing for direct investment in patented
+                technology via whole or fractional NFTs. It's a significant leap
+                from traditional NFT use cases, offering a novel asset
+                management and investment model that ties the digital to the
+                real-world value of patents.
+              </span>{" "}
+              <span className={styles.footC}>
+                These patent-based NFTs are central to Jumbo Blockchain's
+                economic framework, influencing transaction fees and rewards.
+                Their value reflects the company's financial well-being, meaning
+                as Jumbo Blockchain grows, so does the value of the NFTs to
+                investors. This approach not only makes patent investment
+                accessible but also ensures Jumbo Blockchain's goals are aligned
+                with those of its investors. By melding blockchain utility with
+                the real value of patents, Jumbo Blockchain is redefining the
+                monetization and management of intellectual property in the
+                digital era.
+              </span>
+            </div>
           </div>
         </div>
       </div>
