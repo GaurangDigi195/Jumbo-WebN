@@ -17,7 +17,6 @@ const Utility = () => {
           />
           <div className={styles.body}>
             <div className={styles.box1}>
-              <p className={styles.utility}>Utility of Blockchain</p>
               <p className={styles.utilityContent} color="#333333">
                 Jumbochain is steadfast in its dedication to driving society
                 towards sustainable living, guided by our deeply rooted Vision
@@ -160,6 +159,21 @@ const Utility = () => {
                 fit. Moreover, this platform facilitates the use of
                 blockchain-enabled smart contracts for all agreements between
                 lenders and borrowers, significantly minimizing paperwork.
+              </span>
+              <span className={styles.footC}>
+                This innovative blockchain lending platform revolutionizes the
+                financial industry by streamlining loan acquisition and
+                enhancing user experience. It consolidates offers from multiple
+                banks into one easy-to-navigate platform, allowing borrowers to
+                easily compare loans and make decisions that fit their needs.
+                The use of blockchain and smart contracts automates agreements,
+                significantly cutting down on paperwork and increasing
+                efficiency. These smart contracts ensure precise execution of
+                loan terms, offering unmatched security and trust. This modern
+                approach to lending not only makes the process more efficient
+                and reliable but also paves the way for a future where financial
+                transactions are safer, more transparent, and focused on the
+                user's needs.
               </span>
             </div>
             <div className={styles.box4}>
